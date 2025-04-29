@@ -2,14 +2,14 @@
 
 ## Live Demo
 
-Check out the live app here: [Live URL](https://your-live-app-url.com)
+Check out the live app here: [Live URL](https://note-taking-app-brown.vercel.app/)
 
 ## Setup & Run
 
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone <[https://github.com/Amitava-Roy/note-taking-app.git](https://github.com/Amitava-Roy/note-taking-app.git)>
 cd note-taking-app
 ```
 
